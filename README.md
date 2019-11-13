@@ -1,0 +1,2 @@
+# netcorestudy
+.net core study
